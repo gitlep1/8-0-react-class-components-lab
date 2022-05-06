@@ -5,10 +5,6 @@ import ContactList from "./ContactList";
 import Feed from "./Feed";
 
 class App extends Component {
-  constructor() {
-    super();
-  }
-
   render() {
     return (
       <div className="App-Div">
